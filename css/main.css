@@ -12,6 +12,11 @@ html {
   background-color: #fff;
   border-radius: 4px;
   box-shadow: 1px 4px 6px rgba(0, 0, 0, .5);
+
+  position: absolute;
+  left: 30%;
+  top: 150px;
+  transform: rotate (5deg) scale( 1.)
 }
 
 .polaroid > img {
