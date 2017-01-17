@@ -16,7 +16,7 @@ html {
   position: absolute;
   left: 30%;
   top: 150px;
-  transform: rotate (5deg) scale(1.1);
+  transform: rotate(5deg) scale(1.1);
   transition: all 200ms linear;
   z-index: 3;
 }
@@ -56,7 +56,7 @@ figure:last-of-type {
 }
 
 .polaroid:hover {
-  transform: rotate (0) scale(1.1);
+  transform: rotate(0) scale(1.1);
   box-shadow: 1px 4px 15px rgba(0, 0, 0, 1);
   z-index: 1000;
 }
